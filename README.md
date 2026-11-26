@@ -27,6 +27,8 @@ MaxDawnAnimationsSans5 is created for the new generation of animation makers, wi
 |----------|------|--------|
 | GitHub | Thursday, November 26, 2026 | Launched |
 | Google Site | Saturday, November 28, 2026 | Coming soon |
+| Google Drive | Sunday, November 29, 2026 | Coming soon |
+| Mega.nz | Tuesday, December 1, 2026 | Coming soon |
 
 ## Download
 
