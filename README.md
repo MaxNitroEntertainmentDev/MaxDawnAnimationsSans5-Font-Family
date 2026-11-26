@@ -4,6 +4,15 @@
 
 ![Specimen preview](docs/specimen.png)
 
+## Made For the New Generation
+
+MaxDawnAnimationsSans5 is created for the new generation of animation makers, with a look that fits:
+
+- **GoAnimate** style videos
+- **Vyond** style videos
+- **Wrapper Offline** projects
+- **Flash** themes
+
 ## Features
 
 - Smooth, rounded-friendly letterforms that read well on screen and in motion
@@ -11,6 +20,13 @@
 - Wide language support for Latin characters
 - Available in TTF, OTF, and WOFF2 formats
 - Free and open source under the SIL Open Font License 1.1
+
+## Launch Dates
+
+| Platform | Date | Status |
+|----------|------|--------|
+| GitHub | Thursday, November 26, 2026 | Launched |
+| Google Site | Saturday, November 28, 2026 | Coming soon |
 
 ## Download
 
